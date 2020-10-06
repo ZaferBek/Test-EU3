@@ -1,2 +1,6 @@
 THIS IS MY FILE 2 
 About to be statged and committed
+
+I have made some changes to cloned file
+This if not my file
+I am in local repository
